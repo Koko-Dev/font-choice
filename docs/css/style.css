@@ -124,9 +124,9 @@ font-family: 'Cinzel', serif;
 }
 
 .single-fonts div{
-    width: 33%;
     padding: 30px;
     display: inline-block;
+    width: 100%;
     
     
     
