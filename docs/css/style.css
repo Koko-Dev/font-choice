@@ -141,11 +141,18 @@ body {
 ol {
     padding: 10px;
     list-style-position: inside;
+    
 }
 
 ol li {
     width: 100%;
 }
+
+h3 {
+    background-color: lightgoldenrodyellow;
+    display: inline-block;
+}
+
 
 
 
