@@ -1,0 +1,150 @@
+/*
+
+font-family: 'Cormorant', serif;
+font-family: 'Oranienbaum', serif;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Corben', cursive;
+font-family: 'Arima Madurai', cursive;
+font-family: 'IM Fell Double Pica', serif;
+font-family: 'Montez', cursive;
+font-family: 'Aref Ruqaa', serif;
+font-family: 'IM Fell English', serif;
+font-family: 'Fondamento', cursive;
+font-family: 'Metamorphous', cursive;
+font-family: 'Prociono', serif;
+font-family: 'Bellefair', serif;
+font-family: 'Quintessential', cursive;
+font-family: 'IM Fell French Canon SC', serif;
+font-family: 'Vollkorn SC', serif;
+font-family: 'Marcellus SC', serif;
+font-family: 'Alegreya SC', serif;
+font-family: 'Marcellus', serif;
+font-family: 'Sorts Mill Goudy', serif;
+font-family: 'Alegreya', serif;
+font-family: 'Cinzel', serif;
+
+*/
+
+.cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.cinzel-decorative {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.alegreya {
+    font-family: 'Alegreya', serif;
+}
+
+.cormorant {
+    font-family: 'Cormorant', serif;
+}
+
+.sorts-mill-goudy {
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+.marcellus-sc {
+    font-family: 'Marcellus SC', serif;
+}
+
+.marcellus {
+    font-family: 'Marcellus', serif;
+}
+
+.alegreya-sc {
+    font-family: 'Alegreya SC', serif;
+}
+
+.vollkorn-sc {
+    font-family: 'Vollkorn SC', serif;
+}
+
+.im-fell-french-canon-sc {
+    font-family: 'IM Fell French Canon SC', serif;
+}
+
+.quintessential {
+    font-family: 'Quintessential', cursive;
+}
+
+.bellefair {
+    font-family: 'Bellefair', serif;
+}
+
+.prociono {
+    font-family: 'Prociono', serif;
+}
+
+.metamorphous {
+    font-family: 'Metamorphous', cursive;
+}
+
+.fondamento {
+    font-family: 'Fondamento', cursive;
+}
+
+.im-fell-english {
+    font-family: 'IM Fell English', serif;
+}
+
+.aref-ruqaa {
+    font-family: 'Aref Ruqaa', serif;
+}
+
+.montez {
+    font-family: 'Montez', cursive;
+}
+
+.im-fell-double-pica {
+    font-family: 'IM Fell Double Pica', serif;
+}
+
+.arima-madurai {
+    font-family: 'Arima Madurai', cursive;
+}
+
+.corben {
+    font-family: 'Corben', cursive;
+}
+
+.oranienbaum {
+    font-family: 'Oranienbaum', serif;
+}
+
+.clear {
+    margin-bottom: 500px;
+}
+
+.font-list {
+    position: relative;
+
+
+}
+
+.single-fonts div{
+    width: 33%;
+    padding: 30px;
+    display: inline-block;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
