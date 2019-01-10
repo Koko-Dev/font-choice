@@ -121,6 +121,10 @@ body {
     margin-bottom: 500px;
 }
 
+body {
+    padding: 15px;
+}
+
 .font-list {
     position: relative;
 
@@ -134,11 +138,11 @@ body {
     
 }
 
-ul {
+ol {
     padding: 10px;
 }
 
-ul li {
+ol li {
     width: 100%;
 }
 
