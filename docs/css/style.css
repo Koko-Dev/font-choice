@@ -140,6 +140,7 @@ body {
 
 ol {
     padding: 10px;
+    list-style-position: inside;
 }
 
 ol li {
