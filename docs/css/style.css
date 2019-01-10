@@ -27,14 +27,61 @@ font-family: 'Cinzel', serif;
 
 body {
     padding: 5px;
+    /*background-color: #F8F8F8;*/
+}
+
+.nomad-about-final {
+    /*  NOMAD ABOUT FINAL*/
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4a22+0,472713+77,502510+100,3f2c19+100;NOMAD+ABOUT+FINAL */
+    background: rgb(107,74,34); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%, rgba(71,39,19,1) 77%, rgba(80,37,16,1) 100%, rgba(63,44,25,1) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%,rgba(71,39,19,1) 77%,rgba(80,37,16,1) 100%,rgba(63,44,25,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, rgba(107,74,34,1) 0%,rgba(71,39,19,1) 77%,rgba(80,37,16,1) 100%,rgba(63,44,25,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4a22', endColorstr='#3f2c19',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    
+    color: white;
+}
+
+.nomad-booking-final {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4a22+0,702e14+77,5a210a+100,ae5a38+100;NOMAD+BOOKING+FINAL */
+    background: rgb(107,74,34); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%, rgba(112,46,20,1) 77%, rgba(90,33,10,1) 100%, rgba(174,90,56,1) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%,rgba(112,46,20,1) 77%,rgba(90,33,10,1) 100%,rgba(174,90,56,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, rgba(107,74,34,1) 0%,rgba(112,46,20,1) 77%,rgba(90,33,10,1) 100%,rgba(174,90,56,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4a22', endColorstr='#ae5a38',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    color: white;
+}
+
+.nomad-works-final {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4a22+0,702e14+77,5a210a+100,ae5a38+100;NOMAD+BOOKING+FINAL */
+    background: rgb(107,74,34); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%, rgba(112,46,20,1) 77%, rgba(90,33,10,1) 100%, rgba(174,90,56,1) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%,rgba(112,46,20,1) 77%,rgba(90,33,10,1) 100%,rgba(174,90,56,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, rgba(107,74,34,1) 0%,rgba(112,46,20,1) 77%,rgba(90,33,10,1) 100%,rgba(174,90,56,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4a22', endColorstr='#ae5a38',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    color: white;
+}
+
+.nomad-vlogs-final {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4a22+0,521a1d+77,410f11+100,774144+100;NOMAD+VLOGS+FINAL */
+    background: rgb(107,74,34); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%, rgba(82,26,29,1) 77%, rgba(65,15,17,1) 100%, rgba(119,65,68,1) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(107,74,34,1) 0%,rgba(82,26,29,1) 77%,rgba(65,15,17,1) 100%,rgba(119,65,68,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, rgba(107,74,34,1) 0%,rgba(82,26,29,1) 77%,rgba(65,15,17,1) 100%,rgba(119,65,68,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4a22', endColorstr='#774144',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    
+    color: #ffffff;
 }
 
 .cinzel {
     font-family: 'Cinzel', serif;
+    
 }
 
 .cinzel-decorative {
     font-family: 'Cinzel Decorative', cursive;
+    
+    
 }
 
 .alegreya {
@@ -149,9 +196,11 @@ ol li {
 }
 
 h3 {
-    background-color: lightgoldenrodyellow;
+    /*background-color: lightgoldenrodyellow;*/
     display: inline-block;
 }
+
+
 
 
 
