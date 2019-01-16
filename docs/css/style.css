@@ -26,8 +26,9 @@ font-family: 'Cinzel', serif;
 */
 
 body {
-    padding: 5px;
+    /*padding: 5px;*/
     /*background-color: #F8F8F8;*/
+   
 }
 
 .nomad-about-final {
@@ -75,93 +76,231 @@ body {
 
 .cinzel {
     font-family: 'Cinzel', serif;
+    background-image: url("../images/dark-matter.png");
     
 }
 
 .cinzel-decorative {
     font-family: 'Cinzel Decorative', cursive;
+    background-image: url("../images/dark-brick-wall.png");
     
     
 }
 
 .alegreya {
     font-family: 'Alegreya', serif;
+    background-image: url("../images/dark-dot.png");
 }
 
 .cormorant {
     font-family: 'Cormorant', serif;
+    background-image: url("../images/dark-circles.png");
 }
 
 .sorts-mill-goudy {
     font-family: 'Sorts Mill Goudy', serif;
+    background-image: url("../images/dark-fish-skin.png");
 }
 
 .marcellus-sc {
     font-family: 'Marcellus SC', serif;
+    background-image: url("../images/dark-mosaic.png");
 }
 
 .marcellus {
     font-family: 'Marcellus', serif;
+    background-image: url("../images/dark-stripes-light.png");
 }
 
 .alegreya-sc {
     font-family: 'Alegreya SC', serif;
+    background-image: url("../images/dark-stripes.png");
 }
 
 .vollkorn-sc {
     font-family: 'Vollkorn SC', serif;
+    background-image: url("../images/dark-tire.png");
 }
 
 .im-fell-french-canon-sc {
     font-family: 'IM Fell French Canon SC', serif;
+    background-image: url("../images/dark-wood.png");
 }
 
 .quintessential {
     font-family: 'Quintessential', cursive;
+    background-image: url("../images/darth-stripe.png");
 }
 
 .bellefair {
     font-family: 'Bellefair', serif;
+    background-image: url("../images/debut-light.png");
 }
 
 .prociono {
     font-family: 'Prociono', serif;
+    background-image: url("../images/diagmonds-light.png");
 }
 
 .metamorphous {
     font-family: 'Metamorphous', cursive;
+    background-image: url("../images/diagmonds.png");
 }
 
 .fondamento {
     font-family: 'Fondamento', cursive;
+    background-image: url("../images/diagonal-noise.png");
 }
 
 .im-fell-english {
     font-family: 'IM Fell English', serif;
+    background-image: url("../images/diagonal-striped-brick.png");
 }
 
 .aref-ruqaa {
     font-family: 'Aref Ruqaa', serif;
+    background-image: url("../images/diagonal-waves.png");
 }
 
 .montez {
     font-family: 'Montez', cursive;
+    background-image: url("../images/diagonales-decalees.png");
 }
 
 .im-fell-double-pica {
     font-family: 'IM Fell Double Pica', serif;
+    background-image: url("../images/diamond-eyes.png");
 }
 
 .arima-madurai {
     font-family: 'Arima Madurai', cursive;
+    background-image: url("../images/diamond-upholstery.png");
 }
 
 .corben {
     font-family: 'Corben', cursive;
+    background-image: url("../images/diamonds-are-forever.png");
 }
 
 .oranienbaum {
     font-family: 'Oranienbaum', serif;
+    background-image: url("../images/dimension.png");
+}
+
+
+/* For the sake of textures only */
+
+.cinzel2 {
+    font-family: 'Cinzel', serif;
+    background-image: url("../images/dirty-old-black-shirt.png");
+    
+}
+
+.cinzel-decorative2 {
+    font-family: 'Cinzel Decorative', cursive;
+    background-image: url("../images/dotnoise-light-grey.png");
+    
+    
+}
+
+.alegreya2 {
+    font-family: 'Alegreya', serif;
+    background-image: url("../images/double-lined.png");
+}
+
+.cormorant2 {
+    font-family: 'Cormorant', serif;
+    background-image: url("../images/dust.png");
+}
+
+.sorts-mill-goudy2 {
+    font-family: 'Sorts Mill Goudy', serif;
+    background-image: url("../images/ecailles.png");
+}
+
+.marcellus-sc2 {
+    font-family: 'Marcellus SC', serif;
+    background-image: url("../images/elastoplast.png");
+}
+
+.marcellus2 {
+    font-family: 'Marcellus', serif;
+    background-image: url("../images/elegant-grid.png");
+}
+
+.alegreya-sc2 {
+    font-family: 'Alegreya SC', serif;
+    background-image: url("../images/embossed-paper.png");
+}
+
+.vollkorn-sc2 {
+    font-family: 'Vollkorn SC', serif;
+    background-image: url("../images/escheresque.png");
+}
+
+.im-fell-french-canon-sc2 {
+    font-family: 'IM Fell French Canon SC', serif;
+    background-image: url("../images/escheresque-dark.png");
+}
+
+.quintessential2 {
+    font-family: 'Quintessential', cursive;
+    background-image: url("../images/fabric-of-squares.png");
+}
+
+.bellefair2 {
+    font-family: 'Bellefair', serif;
+    background-image: url("../images/fancy-deboss.png");
+}
+
+.prociono2 {
+    font-family: 'Prociono', serif;
+    background-image: url("../images/football-no-lines.png");
+}
+
+.metamorphous2 {
+    font-family: 'Metamorphous', cursive;
+    background-image: url("../images/french-stucco.png");
+}
+
+.fondamento2 {
+    font-family: 'Fondamento', cursive;
+    background-image: url("../images/fresh-snow.png");
+}
+
+.im-fell-english2 {
+    font-family: 'IM Fell English', serif;
+    background-image: url("../images/gold-scale.png");
+}
+
+.aref-ruqaa2 {
+    font-family: 'Aref Ruqaa', serif;
+    background-image: url("../images/gplay.png");
+}
+
+.montez2 {
+    font-family: 'Montez', cursive;
+    background-image: url("../images/gradient-squares.png");
+}
+
+.im-fell-double-pica2 {
+    font-family: 'IM Fell Double Pica', serif;
+    background-image: url("../images/gravel.png");
+}
+
+.arima-madurai2 {
+    font-family: 'Arima Madurai', cursive;
+    background-image: url("../images/gray-floral.png");
+}
+
+.corben2 {
+    font-family: 'Corben', cursive;
+    background-image: url("../images/gray-lines.png");
+}
+
+.oranienbaum2 {
+    font-family: 'Oranienbaum', serif;
+    background-image: url("../images/green-dust-and-scratches.png");
 }
 
 .clear {
@@ -169,7 +308,7 @@ body {
 }
 
 body {
-    padding: 15px;
+    /*padding: 15px;*/
 }
 
 .font-list {
@@ -191,16 +330,15 @@ ol {
     
 }
 
-ol li {
+li {
     width: 100%;
+    
 }
 
 h3 {
     /*background-color: lightgoldenrodyellow;*/
     display: inline-block;
 }
-
-
 
 
 
